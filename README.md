@@ -1,7 +1,7 @@
 # Normalisation_histopathology_images_OT
 
 1. Code for patches creation : https://nbviewer.org/github/afiliot/TPDUIA/blob/main/TPDUIA/2022/whole_slide_images.ipynb
-2. Normalisation \\
+2. Normalisation  
    a. For Vahadane, Macenko, Reinhard and Ruifrok methods : https://github.com/Noemie-B/Normalisation_histopathology_images_OT/blob/main/2-Normalization_Reinhard_Vahadane_Macenko_Ruifrok.ipynb
       Code from tiatoolbox : https://github.com/TissueImageAnalytics/tiatoolbox
    b. Our implementation with GeomLoss : https://github.com/Noemie-B/Normalisation_histopathology_images_OT/blob/main/2_Normalization_Geomloss.ipynb
