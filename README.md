@@ -12,7 +12,7 @@
       - Normalisation with StainGAN and StainNET : https://github.com/Noemie-B/Normalisation_histopathology_images_OT/blob/main/2_Normalization_StainGAN_StainNET.ipynb
       - Code for StainGAN and StainNET : https://github.com/khtao/StainNet/tree/master
 4. Nuclei segmentation and classification with HoVer-Net (PanNuke weights) : https://github.com/simongraham/hovernet_inference/tree/master/hover
-5. Metrics for methods comparison :
+5. Metrics for methods comparison :  
    a. Nuclei segmentation and classification scores : https://github.com/Noemie-B/Normalisation_histopathology_images_OT/blob/main/3_Metrics_nucleus_segmentation_classification_scores.ipynb  
    b. Quality images score : https://github.com/Noemie-B/Normalisation_histopathology_images_OT/blob/main/3_Metrics_Quality_images_score.ipynb  
    c. Patches classification : https://github.com/Noemie-B/Normalisation_histopathology_images_OT/blob/main/3_Metrics_DL_Classification_datasets.ipynb  
