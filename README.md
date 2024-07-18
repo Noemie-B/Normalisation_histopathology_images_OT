@@ -17,6 +17,15 @@
    b. Quality images score : https://github.com/Noemie-B/Normalisation_histopathology_images_OT/blob/main/3_Metrics_Quality_images_score.ipynb
    c. Patches classification : https://github.com/Noemie-B/Normalisation_histopathology_images_OT/blob/main/3_Metrics_DL_Classification_datasets.ipynb
 
+## Environment
+
+Python version : 3.9.7
+
+For GeomLoss, a specific environment with keops package is used : https://github.com/Noemie-B/Normalisation_histopathology_images_OT/blob/main/environment_geomloss.yml
+
+For the other, please refer to tiatoolbox, HoVer-Net and StainNET githubs.
+
+
 ## Disclaimer
 The results and analyses presented in this repository are intended for research purposes only. They are not validated for clinical use and should not be used to diagnose, treat, or manage any health conditions. Always consult with a qualified healthcare professional for medical advice and treatment.
 
