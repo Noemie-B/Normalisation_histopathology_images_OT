@@ -20,6 +20,10 @@
 ## Disclaimer
 The results and analyses presented in this repository are intended for research purposes only. They are not validated for clinical use and should not be used to diagnose, treat, or manage any health conditions. Always consult with a qualified healthcare professional for medical advice and treatment.
 
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/'>http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is distributed under the the terms of the creative commons attribution <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/'>http://creativecommons.org/licenses/by-nc-sa/4.0/">Licence Creative Commons Attribution - No commercial use - shared in the same conditions 4.0 International</a>.
+
 ## Copyright (c) 
 
 Permission is hereby granted, free of charge, to any person obtaining
