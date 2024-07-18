@@ -5,10 +5,10 @@
    a.
       - For Vahadane, Macenko, Reinhard and Ruifrok methods : https://github.com/Noemie-B/Normalisation_histopathology_images_OT/blob/main/2-Normalization_Reinhard_Vahadane_Macenko_Ruifrok.ipynb  
       - Code from tiatoolbox : https://github.com/TissueImageAnalytics/tiatoolbox  
-   b. 
+  b. 
       - Our implementation with GeomLoss : https://github.com/Noemie-B/Normalisation_histopathology_images_OT/blob/main/2_Normalization_Geomloss.ipynb
-      - GeomLoss package : https://www.kernel-operations.io/geomloss/_auto_examples/optimal_transport/plot_optimal_transport_color.html#sphx-glr-auto-examples-optimal-transport-plot-optimal-transport-color-py
-   c. 
+      - GeomLoss package : https://www.kernel-operations.io/geomloss/_auto_examples/optimal_transport/plot_optimal_transport_color.html#sphx-glr-auto-examples-optimal-transport-plot-optimal-transport-color-py  
+c. 
       - Normalisation with StainGAN and StainNET : https://github.com/Noemie-B/Normalisation_histopathology_images_OT/blob/main/2_Normalization_StainGAN_StainNET.ipynb
       - Code for StainGAN and StainNET : https://github.com/khtao/StainNet/tree/master
 4. Nuclei segmentation and classification with HoVer-Net (PanNuke weights) : https://github.com/simongraham/hovernet_inference/tree/master/hover
