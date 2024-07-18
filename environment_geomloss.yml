@@ -1,0 +1,4 @@
+name: keops
+channels:
+  - defaults
+prefix: /home/user/anaconda3/envs/keops
