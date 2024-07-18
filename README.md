@@ -21,9 +21,11 @@
 
 Python version : 3.9.7
 
+For HoVer-Net, please use the environment : https://github.com/Noemie-B/Normalisation_histopathology_images_OT
+
 For GeomLoss, a specific environment with keops package is used : https://github.com/Noemie-B/Normalisation_histopathology_images_OT/blob/main/environment_geomloss.yml
 
-For the other, please refer to tiatoolbox, HoVer-Net and StainNET githubs.
+For the other, please refer to tiatoolbox and StainNET githubs.
 
 
 ## Disclaimer
